@@ -16,47 +16,29 @@ Parent Category  Outcomes:
 The Kickstarter data was a rich data which had to be converted from timestamp into date format. It also had 9 parent Categories and 36 Subcategories, representing various campaigns run over the years. Music and Theater campaigns happened to yield the most successful outcomes. Although the Theather campaign yeilded the highest it also recorded the highest failed outcomes as compared to music which had fewer failed outcomes. The technology campaign however had the largest number of cancellations. 
 Food, games, photography and publishing campaigns yielded comparatively very low outcomes.
 
- 
+![image](https://user-images.githubusercontent.com/114967995/195755327-53235219-9d0c-4ab5-8ecd-c57c79902ab2.png)
 
 
 Subcategory Outcomes:
 The plays subcategory campaign yielded the highest number of successful outcomes which far outweighed all the other subcategories. Similarly, it also yielded the highest number of failed campaign outcomes. All other subcategories yielded much lower successful outcomes from their campaigns.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/114967995/195755404-573b81ac-d5df-4611-894e-04dbbd2cd2fc.png)
 
 
 Outcomes based on Campaign Launch Date
 Across board, the most successful campaign outcome was launched in May while the least successful outcome was launched in January, July and October. July and November also recorded the highest number of cancellations.
  
-
+![image](https://user-images.githubusercontent.com/114967995/195755484-c4e67dc7-3696-41e5-95ce-5d6f873060cd.png)
 
 Results
 The results of the analysis based on the objectives of the Campaign Project are reported below to reflect the Outcomes based on Launch date and Goals.
 Analysis of Outcomes Based on Launch Date
 
- 
-
+ ![image](https://user-images.githubusercontent.com/114967995/195755549-1d100c87-e3bb-42be-86df-0717f4bdf742.png)
 
 Analysis of Outcomes Based on Goals
 
- 
-
+ ![image](https://user-images.githubusercontent.com/114967995/195755612-6d70fa45-5d06-4011-981d-52eb2c2dd1dc.png)
 
 Conclusions
 
