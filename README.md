@@ -3,6 +3,8 @@
 
 
 [Resources.zip](https://github.com/WoyramA/Kickstarter_Challenge/files/9782187/Resources.zip)
+
+
 Kickstarting with Excel
 This Kickstarter project shows a detailed analysis and visualization of fundraising goals and outcomes towards Louise’s play “Fever”.  This document represents a summary further backed by excel data sheets attached in this github repository.
 
