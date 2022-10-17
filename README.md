@@ -41,9 +41,6 @@ Analysis of Outcomes Based on Launch Date
 
  ![image](https://user-images.githubusercontent.com/114967995/195755549-1d100c87-e3bb-42be-86df-0717f4bdf742.png)
  
- 
- ![image](https://user-images.githubusercontent.com/114967995/196213375-4cc61afa-67f4-4705-ae3d-1b351c5ebfad.png)
-
 
 Analysis of Outcomes Based on Goals
 
