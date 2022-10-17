@@ -37,10 +37,10 @@ Across board, the most successful campaign outcome was launched in May while the
 
 Results
 The results of the analysis based on the objectives of the Campaign Project are reported below to reflect the Outcomes based on Launch date and Goals.
+
 Analysis of Outcomes Based on Launch Date
 
- ![image](https://user-images.githubusercontent.com/114967995/195755549-1d100c87-e3bb-42be-86df-0717f4bdf742.png)
- 
+ ![image](https://user-images.githubusercontent.com/114967995/196214778-1a86f088-9321-4dc5-b76f-465484a0faba.png)
 
 Analysis of Outcomes Based on Goals
 
